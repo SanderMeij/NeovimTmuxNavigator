@@ -26,4 +26,4 @@ M = {
 
 return M
 ```
-This enables me to always execute commands in the window context with a single key press (<c-j>)
+This enables me to always execute commands in the window context with a single key press `<c-j>`
